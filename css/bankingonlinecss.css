@@ -1,0 +1,23 @@
+html{
+    background-image: url(./19366.jpg);
+    background-size: cover;
+}
+.menutab button{
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    margin: 1px;
+}
+.menutab button:hover {
+    background-color: #008bda;
+    border-radius: 6px;
+  }
+
+.menutab button:active {
+    background-color: #008bda;
+    border-radius: 6px;
+}
