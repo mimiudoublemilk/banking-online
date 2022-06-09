@@ -27,3 +27,17 @@ html{
     background-color: #008bda;
     border-radius: 6px;
 }
+
+.fixedtab {
+    background-color:rgba(2, 204, 255, 0.473);
+    position: fixed;
+    top: 0;
+    left: 0;
+    display:inline-block;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+.totalBalanceHeading {
+    margin-top: 30px;
+}
